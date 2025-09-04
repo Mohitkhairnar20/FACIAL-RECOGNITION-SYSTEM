@@ -33,4 +33,4 @@ It enables:
 │ ├── assets/ # Images, logos, icons
 │ ├── App.jsx # Root component
 │ └── main.jsx # Entry point
-│── public/ # Static files```
+│── public/ # Static files
