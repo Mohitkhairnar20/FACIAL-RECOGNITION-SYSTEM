@@ -22,7 +22,8 @@ It enables:
 
 ## 🗂 Project Structure  
 
-```CloudFace/
+```
+CloudFace/
 │── index.html
 │── package.json
 │── vite.config.js
