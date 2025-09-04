@@ -22,3 +22,15 @@ It enables:
 
 ## 🗂 Project Structure  
 
+```CloudFace/
+│── index.html
+│── package.json
+│── vite.config.js
+│── src/
+│ ├── components/ # UI Components (forms, upload, results)
+│ ├── pages/ # Pages (RegisterEmployee, VisitorMatch, Dashboard)
+│ ├── services/ # API call helpers (Axios → API Gateway)
+│ ├── assets/ # Images, logos, icons
+│ ├── App.jsx # Root component
+│ └── main.jsx # Entry point
+│── public/ # Static files```
